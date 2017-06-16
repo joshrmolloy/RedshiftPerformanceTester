@@ -1,0 +1,8 @@
+c:\users\josh.molloy\documents\visual studio 2017\Projects\RedshiftPerformanceTester\RedshiftPerformanceTester\bin\Debug\RedshiftPerformanceTester.exe.config
+c:\users\josh.molloy\documents\visual studio 2017\Projects\RedshiftPerformanceTester\RedshiftPerformanceTester\bin\Debug\RedshiftPerformanceTester.exe
+c:\users\josh.molloy\documents\visual studio 2017\Projects\RedshiftPerformanceTester\RedshiftPerformanceTester\bin\Debug\RedshiftPerformanceTester.pdb
+c:\users\josh.molloy\documents\visual studio 2017\Projects\RedshiftPerformanceTester\RedshiftPerformanceTester\bin\Debug\CsvHelper.dll
+c:\users\josh.molloy\documents\visual studio 2017\Projects\RedshiftPerformanceTester\RedshiftPerformanceTester\bin\Debug\CsvHelper.xml
+c:\users\josh.molloy\documents\visual studio 2017\Projects\RedshiftPerformanceTester\RedshiftPerformanceTester\obj\Debug\RedshiftPerformanceTester.csprojResolveAssemblyReference.cache
+c:\users\josh.molloy\documents\visual studio 2017\Projects\RedshiftPerformanceTester\RedshiftPerformanceTester\obj\Debug\RedshiftPerformanceTester.exe
+c:\users\josh.molloy\documents\visual studio 2017\Projects\RedshiftPerformanceTester\RedshiftPerformanceTester\obj\Debug\RedshiftPerformanceTester.pdb
